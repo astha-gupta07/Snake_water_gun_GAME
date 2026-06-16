@@ -47,7 +47,13 @@ A fun command-line implementation of the classic Snake-Water-Gun game built with
 
 * Graphical User Interface (GUI)
 * Score tracking system
+
 * Multiple rounds gameplay
 * Animations and visual effects
+
+
+  ## 📸 Screenshot
+
+![Snake Water Gun Game](screenshot.png)
 
 This project was created as a beginner Python project to practice conditional statements, dictionaries, randomization, and sound integration using Pygame.
