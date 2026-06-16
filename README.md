@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # Snake Water Gun Game 🎮
 
 A fun command-line implementation of the classic Snake-Water-Gun game built with Python. The game allows the player to compete against the computer while enjoying immersive sound effects for different game actions and outcomes.
